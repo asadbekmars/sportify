@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+    flex-wrap: wrap;
+
+}
+div{
+    width:400px;
+    height: 500px;
+    background-color: rgb(196, 187, 187);
+    text-align: center;
+}
